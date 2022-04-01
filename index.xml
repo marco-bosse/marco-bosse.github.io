@@ -6,7 +6,18 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2022 20:39:34 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 20:51:35 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My SECOND Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Fri, 01 Apr 2022 20:51:35 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>der zweite Post #   Das ist der zweite Post
+ dsfsd sdfs  shdfsdf
+dsfbdsa</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://example.org/posts/my-first-post/</link>
@@ -14,6 +25,15 @@
       
       <guid>http://example.org/posts/my-first-post/</guid>
       <description>Das ist die erste Seite #  Das ist der erste Text.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/posts/my-third-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-third-post/</guid>
+      <description>third post #  </description>
     </item>
     
   </channel>
