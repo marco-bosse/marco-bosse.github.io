@@ -93,24 +93,6 @@ dsfd #  dsgfdsgdsfg #  </description>
     
     <item>
       <title></title>
-      <link>https://marco-bosse.github.io/docs/afuklapp2/test_auf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marco-bosse.github.io/docs/afuklapp2/test_auf/</guid>
-      <description>Aufklapp 2 2 #  dsga</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://marco-bosse.github.io/docs/afuklapp2/zwei/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marco-bosse.github.io/docs/afuklapp2/zwei/</guid>
-      <description>zwei #  </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://marco-bosse.github.io/docs/aufklapp/test_auf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -126,6 +108,24 @@ dsga</description>
       
       <guid>https://marco-bosse.github.io/docs/aufklapp/zwei/</guid>
       <description>suifsda</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://marco-bosse.github.io/docs/github-pages-mit-hugo-aktualisieren/1.-bearbeiten-der-%C3%A4nderungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marco-bosse.github.io/docs/github-pages-mit-hugo-aktualisieren/1.-bearbeiten-der-%C3%A4nderungen/</guid>
+      <description>Bearbeiten der Änderungen #   Mit einem MarkDown-Editor arbeiten  lokales Hugo-Verzeichnis contentöffnen Blogs im Verzeichnis Blogsbearbeiten Posts im Verzeichnis Postsbearbeiten    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://marco-bosse.github.io/docs/github-pages-mit-hugo-aktualisieren/2.-%C3%BCbersetzen-der-%C3%A4nderungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marco-bosse.github.io/docs/github-pages-mit-hugo-aktualisieren/2.-%C3%BCbersetzen-der-%C3%A4nderungen/</guid>
+      <description>Übersetzen der Änderungen #  </description>
     </item>
     
   </channel>
