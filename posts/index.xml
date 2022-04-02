@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Marcos Hugo</title>
+    <title>Blog on Marcos Hugo</title>
     <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Marcos Hugo</description>
+    <description>Recent content in Blog on Marcos Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Apr 2022 20:51:35 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -24,7 +24,10 @@ dsfbdsa</description>
       <pubDate>Fri, 01 Apr 2022 20:39:34 +0200</pubDate>
       
       <guid>http://example.org/posts/my-third-post/</guid>
-      <description>third post #  Der 3. Post</description>
+      <description>third post #  Der 3. Post
+sfsd #  fdsfadsa
+sdfdsa
+sdfdsaf #  dsfadsa</description>
     </item>
     
     <item>
