@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcos Hugo</title>
-    <link>http://example.org/</link>
+    <link>https://marco-bosse.github.io/</link>
     <description>Recent content on Marcos Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2022 20:51:35 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 20:51:35 +0200</lastBuildDate><atom:link href="https://marco-bosse.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 3vPost</title>
-      <link>http://example.org/docs/my-third-post/</link>
+      <link>https://marco-bosse.github.io/docs/my-third-post/</link>
       <pubDate>Fri, 01 Apr 2022 20:39:34 +0200</pubDate>
       
-      <guid>http://example.org/docs/my-third-post/</guid>
+      <guid>https://marco-bosse.github.io/docs/my-third-post/</guid>
       <description>third post #  Der 3. Post
 fdgdsf #  fdgdsfg
 fdgfds #  gfdsgf
@@ -21,19 +21,19 @@ dfsgfds</description>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/docs/my-first-post/</link>
+      <link>https://marco-bosse.github.io/docs/my-first-post/</link>
       <pubDate>Fri, 01 Apr 2022 20:39:34 +0200</pubDate>
       
-      <guid>http://example.org/docs/my-first-post/</guid>
+      <guid>https://marco-bosse.github.io/docs/my-first-post/</guid>
       <description>Das ist die erste Seite #  Das ist der erste Text.</description>
     </item>
     
     <item>
       <title>My SECOND Post</title>
-      <link>http://example.org/docs/my-second-post/</link>
+      <link>https://marco-bosse.github.io/docs/my-second-post/</link>
       <pubDate>Fri, 01 Apr 2022 20:51:35 +0200</pubDate>
       
-      <guid>http://example.org/docs/my-second-post/</guid>
+      <guid>https://marco-bosse.github.io/docs/my-second-post/</guid>
       <description>der zweite Post #   Das ist der zweite Post
  dsfsd sdfs  shdfsdf
 dsfbdsa</description>
@@ -41,10 +41,10 @@ dsfbdsa</description>
     
     <item>
       <title>My SECOND Post</title>
-      <link>http://example.org/posts/my-second-post/</link>
+      <link>https://marco-bosse.github.io/posts/my-second-post/</link>
       <pubDate>Fri, 01 Apr 2022 20:51:35 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>https://marco-bosse.github.io/posts/my-second-post/</guid>
       <description>der zweite Post #   Das ist der zweite Post
  dsfsd sdfs  shdfsdf
 dsfbdsa</description>
@@ -52,10 +52,10 @@ dsfbdsa</description>
     
     <item>
       <title>My 3vPost</title>
-      <link>http://example.org/posts/my-third-post/</link>
+      <link>https://marco-bosse.github.io/posts/my-third-post/</link>
       <pubDate>Fri, 01 Apr 2022 20:39:34 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-third-post/</guid>
+      <guid>https://marco-bosse.github.io/posts/my-third-post/</guid>
       <description>third post #  Der 3. Post
 sfsd #  fdsfadsa
 sdfdsa
@@ -64,49 +64,49 @@ sdfdsaf #  dsfadsa</description>
     
     <item>
       <title>My 4Post</title>
-      <link>http://example.org/docs/4thpost/</link>
+      <link>https://marco-bosse.github.io/docs/4thpost/</link>
       <pubDate>Fri, 01 Apr 2022 20:39:34 +0200</pubDate>
       
-      <guid>http://example.org/docs/4thpost/</guid>
+      <guid>https://marco-bosse.github.io/docs/4thpost/</guid>
       <description>Der 4. Post
 dsfd #  dsgfdsgdsfg #  </description>
     </item>
     
     <item>
       <title>My 4Post</title>
-      <link>http://example.org/posts/4thpost/</link>
+      <link>https://marco-bosse.github.io/posts/4thpost/</link>
       <pubDate>Fri, 01 Apr 2022 20:39:34 +0200</pubDate>
       
-      <guid>http://example.org/posts/4thpost/</guid>
+      <guid>https://marco-bosse.github.io/posts/4thpost/</guid>
       <description>Der 4. Post
 dsfd #  dsgfdsgdsfg #  </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://marco-bosse.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 01 Apr 2022 20:39:34 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://marco-bosse.github.io/posts/my-first-post/</guid>
       <description>Das ist die erste Seite #  Das ist der erste Text.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/docs/aufklapp/test_auf/</link>
+      <link>https://marco-bosse.github.io/docs/aufklapp/test_auf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/aufklapp/test_auf/</guid>
+      <guid>https://marco-bosse.github.io/docs/aufklapp/test_auf/</guid>
       <description>test_auf#
 dsga</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/docs/aufklapp/zwei/</link>
+      <link>https://marco-bosse.github.io/docs/aufklapp/zwei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/aufklapp/zwei/</guid>
+      <guid>https://marco-bosse.github.io/docs/aufklapp/zwei/</guid>
       <description>suifsda</description>
     </item>
     

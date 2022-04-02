@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcos Hugo</title>
-    <link>http://example.org/docs/aufklapp/</link>
+    <link>https://marco-bosse.github.io/docs/aufklapp/</link>
     <description>Recent content on Marcos Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/docs/aufklapp/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://marco-bosse.github.io/docs/aufklapp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/docs/aufklapp/test_auf/</link>
+      <link>https://marco-bosse.github.io/docs/aufklapp/test_auf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/aufklapp/test_auf/</guid>
+      <guid>https://marco-bosse.github.io/docs/aufklapp/test_auf/</guid>
       <description>test_auf#
 dsga</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/docs/aufklapp/zwei/</link>
+      <link>https://marco-bosse.github.io/docs/aufklapp/zwei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/aufklapp/zwei/</guid>
+      <guid>https://marco-bosse.github.io/docs/aufklapp/zwei/</guid>
       <description>suifsda</description>
     </item>
     
