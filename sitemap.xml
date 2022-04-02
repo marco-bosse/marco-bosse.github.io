@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marco-bosse.github.io/docs/</loc>
+    <loc>https://marco-bosse.github.io/docs/schnell/</loc>
     <lastmod>2022-04-01T20:51:35+02:00</lastmod>
   </url><url>
-    <loc>https://marco-bosse.github.io/docs/my-third-post/</loc>
+    <loc>https://marco-bosse.github.io/docs/schnell/my-third-post/</loc>
     <lastmod>2022-04-01T20:39:34+02:00</lastmod>
   </url><url>
-    <loc>https://marco-bosse.github.io/docs/my-first-post/</loc>
+    <loc>https://marco-bosse.github.io/docs/schnell/my-first-post/</loc>
     <lastmod>2022-04-01T20:39:34+02:00</lastmod>
   </url><url>
     <loc>https://marco-bosse.github.io/posts/</loc>
     <lastmod>2022-04-01T20:51:35+02:00</lastmod>
   </url><url>
+    <loc>https://marco-bosse.github.io/docs/</loc>
+    <lastmod>2022-04-01T20:51:35+02:00</lastmod>
+  </url><url>
     <loc>https://marco-bosse.github.io/</loc>
     <lastmod>2022-04-01T20:51:35+02:00</lastmod>
   </url><url>
-    <loc>https://marco-bosse.github.io/docs/my-second-post/</loc>
+    <loc>https://marco-bosse.github.io/docs/schnell/my-second-post/</loc>
     <lastmod>2022-04-01T20:51:35+02:00</lastmod>
   </url><url>
     <loc>https://marco-bosse.github.io/posts/my-second-post/</loc>
@@ -26,7 +29,7 @@
     <loc>https://marco-bosse.github.io/posts/my-third-post/</loc>
     <lastmod>2022-04-01T20:39:34+02:00</lastmod>
   </url><url>
-    <loc>https://marco-bosse.github.io/docs/4thpost/</loc>
+    <loc>https://marco-bosse.github.io/docs/schnell/4thpost/</loc>
     <lastmod>2022-04-01T20:39:34+02:00</lastmod>
   </url><url>
     <loc>https://marco-bosse.github.io/posts/4thpost/</loc>
